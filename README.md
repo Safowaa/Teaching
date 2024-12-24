@@ -1,2 +1,2 @@
 # Teaching
-A collection of topics taught 
+In this lesson, we will learn how to clean and analyze the telco customer churn data, build machine learning models to predict customer churn, built and deploy a web app to hold the machine learning models and put the app on google paly store.
